@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **doc-wann/doc-wann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<div align="center" style="display: inline_block"><br>
+<img align = "center" alt="Ben dez irado" height="1" width="8000" src="https://user-images.githubusercontent.com/106987431/203650284-10a48996-6daf-4955-a17c-25908a179e27.png">
