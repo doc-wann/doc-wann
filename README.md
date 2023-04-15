@@ -12,7 +12,7 @@
   
   <p> You can reach me through my e-mail, <b> kikevdani@gmail.com </b> or add me in discord if you up for a chat <b>DocWann#6866</b>... ⚡️</p>
   
-<p> I use he/him pronouns, and really like story-telling and game-developing. In fact, my very first program is a D&D based text rpg, which I saddly lost the code for recently! I look forward to help, and if I'm contributing to this wonderful community in any way, you can be sure that I'll me flattered to be of use. 🔭</p>
+<p> I use he/him pronouns, and really like story-telling and game-developing. In fact, my very first program was a D&D based text rpg, which I saddly lost the code for recently! I look forward to help, and if I'm contributing to this wonderful community in any way, you can be sure that I'll me flattered to be of use. 🔭</p>
   
 <p align="center"><a href="https://github.com/stars/doc-wann/lists/42-school">Visit my 42 School projects - They're very cool, I promisse. </a></p>
   
