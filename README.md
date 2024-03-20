@@ -4,7 +4,7 @@
   
 <h2 align="center"> Hi! Hope you're having a nice day ;) </h2>
   
-<h4> My name is  Henrique, and I'm a software engineer at 42 São Paulo. 👋😁 </h4>
+<h4> My name is  Henrique, and I'm a software engineer! 👋😁 </h4>
   
 <p title="I'm a introduction!"> First of all, let me introduce myself - I've been coding since 2021, and am very eager to learn and improve my skills. I'm currently learning mostly C, since it is a very influential coding language - to be real, most of my learning revolves around actual code engineering, data-structures and clever ways to improve and make systems more effective. I aim to be studing at 42 for at least a few months before actually starting a professional career. 💼 </p>
   
