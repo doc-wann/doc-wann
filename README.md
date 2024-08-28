@@ -1,29 +1,37 @@
-<html lang="en">
-  
-<body>
-  
-<h2 align="center"> Hi! Hope you're having a nice day ;) </h2>
-  
-<h4> My name is  Henrique, and I'm a software engineer! 👋😁 </h4>
-  
-<p title="I'm a introduction!"> First of all, let me introduce myself - I've been coding since 2021, and am very eager to learn and improve my skills. I'm currently learning mostly C, since it is a very influential coding language - to be real, most of my learning revolves around actual code engineering, data-structures and clever ways to improve and make systems more effective. I aim to be studing at 42 for at least a few months before actually starting a professional career. 💼 </p>
-  
-<p> If you're also a 42 student, or any kind of curious programmer that ends bumping into my codes, feel free to call me and give a word of advice! 🧑‍🚀</p>
-  
-  <p> You can reach me through my e-mail, <b> kikevdani@gmail.com </b> or add me in discord if you up for a chat <b>DocWann#6866</b>... ⚡️</p>
-  
-<p> I use he/him pronouns, and really like story-telling and game-developing. In fact, my very first program was a D&D based text rpg, which I saddly lost the code for recently! I look forward to help, and if I'm contributing to this wonderful community in any way, you can be sure that I'll me flattered to be of use. 🔭</p>
-  
-<p align="center"><a href="https://github.com/stars/doc-wann/lists/42-school">Visit my 42 School projects - They're very cool, I promisse. </a></p>
-  
-<p align="center"><a href="https://github.com/stars/doc-wann/lists/prototype-study-purpose">Visit my study-purpose projects - They're not cool, but I use them as practical learning tools. </a></p>
-  
-<p align="center"><a href="https://github.com/stars/doc-wann/lists/personal-projects">Visit my personal projects - Some things I did for myself, that may or may not be complete. </a></p>
-  
+<h2 align="center"> Hello! I hope you're having a fantastic day! 😊 </h2>
 
-<div align="center" style="display: inline_block"><br>
-<img align = "center" alt="Ben dez irado" height="1" width="8000" src="https://user-images.githubusercontent.com/106987431/203650284-10a48996-6daf-4955-a17c-25908a179e27.png">
-</body>
-</html>
-  
-    
+<h3 align="center"> Welcome to my GitHub profile! </h3>
+
+---
+
+<h4> About Me </h4>
+
+<p> My name is Henrique, and I'm a passionate Software Engineer currently working at <b>Syx Global</b>. My journey in coding began in 2021, and since then, I've dedicated myself to mastering various programming languages and technologies, with a strong focus on <b>backend engineering</b>, <b>AI-driven commercial solutions</b>, and <b>game development</b>. I believe in continuous learning and constantly strive to refine my skills and push the boundaries of what's possible. </p>
+
+<p> I am no longer a student at 42SP but have transitioned into professional roles where I apply the knowledge and experience gained during my studies. I'm deeply involved in multiple projects that reflect my interests in technology and innovation. Feel free to explore my work and get in touch if you'd like to collaborate or discuss anything tech-related. </p>
+
+<h4> Get in Touch </h4>
+
+<p> You can reach me via email at <b>kikevdani@gmail.com</b> or connect with me on Discord at <b>DocWann#6866</b> for a chat. I'm always open to discussing new ideas, providing insights, or simply engaging with fellow tech enthusiasts! </p>
+
+<h4> Interests </h4>
+
+<p> My pronouns are he/him, and I'm particularly passionate about <b>storytelling</b> and <b>game development</b>. My journey into programming was fueled by my love for creating immersive experiences, starting with a D&D-based text RPG, which, although lost to time, still inspires my current projects. I aim to contribute meaningfully to the tech community and am always excited to learn from and help others. </p>
+
+---
+
+<h3 align="center"> Explore My Work </h3>
+
+<p align="center">
+  <a href="https://doc-wann.github.io/Presentation/">🔗 Visit My Project Portfolio</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/stars/doc-wann/lists/42-school">🎓 42 School Projects</a> •
+  <a href="https://github.com/stars/doc-wann/lists/prototype-study-purpose">🔬 Study-Purpose Projects</a> •
+  <a href="https://github.com/stars/doc-wann/lists/personal-projects">💻 Personal Projects</a>
+</p>
+
+<div align="center">
+  <img alt="GitHub Profile Banner" height="354" width="711" src="https://clipart-library.com/2023/programing-clipart-xl.png">
+</div>
