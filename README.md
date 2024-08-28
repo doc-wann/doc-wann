@@ -33,5 +33,42 @@
 </p>
 
 <div align="center">
-  <img alt="GitHub Profile Banner" height="354" width="711" src="https://clipart-library.com/2023/programing-clipart-xl.png">
+    <img alt="GitHub Profile Banner" height="354" width="711" src="https://clipart-library.com/2023/programing-clipart-xl.png">
 </div>
+
+---
+
+<h2 align="center"> Olá! Espero que você esteja tendo um ótimo dia! 😊 </h2>
+
+<h3 align="center"> Bem-vindo ao meu perfil no GitHub! </h3>
+
+---
+
+<h4> Sobre Mim </h4>
+
+<p> Meu nome é Henrique, e sou um Engenheiro de Software apaixonado, atualmente trabalhando na <b>Syx Global</b>. Minha jornada na programação começou em 2021, e desde então, tenho me dedicado a dominar várias linguagens e tecnologias de programação, com um forte foco em <b>engenharia de backend</b>, <b>soluções comerciais baseadas em IA</b> e <b>desenvolvimento de jogos</b>. Acredito no aprendizado contínuo e estou sempre me esforçando para aprimorar minhas habilidades e expandir os limites do que é possível. </p>
+
+<p> Não sou mais estudante da 42SP, mas fiz a transição para papéis profissionais onde aplico o conhecimento e a experiência adquiridos durante meus estudos. Estou profundamente envolvido em vários projetos que refletem meus interesses em tecnologia e inovação. Fique à vontade para explorar meu trabalho e entrar em contato se você quiser colaborar ou discutir qualquer assunto relacionado à tecnologia. </p>
+
+<h4> Entre em Contato </h4>
+
+<p> Você pode me contatar por e-mail em <b>kikevdani@gmail.com</b> ou se conectar comigo no Discord em <b>DocWann#6866</b> para um bate-papo. Estou sempre aberto para discutir novas ideias, fornecer insights ou simplesmente interagir com outros entusiastas da tecnologia! </p>
+
+<h4> Interesses </h4>
+
+<p> Meus pronomes são ele/dele, e sou particularmente apaixonado por <b>narrativas</b> e <b>desenvolvimento de jogos</b>. Minha jornada na programação foi impulsionada pelo meu amor por criar experiências imersivas, começando com um RPG de texto baseado em D&D, que, embora perdido no tempo, ainda inspira meus projetos atuais. Meu objetivo é contribuir de forma significativa para a comunidade de tecnologia e estou sempre empolgado para aprender e ajudar os outros. </p>
+
+---
+
+<h3 align="center"> Explore Meu Trabalho </h3>
+
+<p align="center">
+  <a href="https://doc-wann.github.io/Presentation/">🔗 Visite Meu Portfólio de Projetos</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/stars/doc-wann/lists/42-school">🎓 Projetos da 42 School</a> •
+  <a href="https://github.com/stars/doc-wann/lists/prototype-study-purpose">🔬 Projetos para Estudo</a> •
+  <a href="https://github.com/stars/doc-wann/lists/personal-projects">💻 Projetos Pessoais</a>
+</p>
+
